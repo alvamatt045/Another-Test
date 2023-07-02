@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Another Test</string>
+    <string name="gameTitle">Genshin Impact</string>
+    <string name="TRolls">Total Rolls</string>
+    <string name="LBRolls">Limited Banner Rolls</string>
+    <string name="SBRolls">Standard Banner Rolls</string>
+    <string name="IFate">Intertwined Fates</string>
+    <string name="AFate">Acquaint Fates</string>
+    <string name="Primo">Primogems</string>
+    <string name="GenCrys">Genesis Crystals</string>
+    <string name="MastStar">Masterless Starglitter</string>
+    <string name="Lim">Limited</string>
+    <string name="Stand">Standard</string>
+    <string name="NTRolls">000.0</string>
+    <string name="AddAcc">Add Account</string>
 </resources>
